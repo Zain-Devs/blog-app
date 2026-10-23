@@ -1,0 +1,25 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, sans-serif; background: #f6f7f9; color: #1f2933; line-height: 1.6; }
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.header { background: #fff; border-bottom: 1px solid #e5e7eb; padding: 14px 24px; }
+.logo { font-weight: 700; font-size: 1.2rem; color: #111; }
+.container { max-width: 800px; margin: 0 auto; padding: 24px 16px 60px; }
+.grid { display: grid; gap: 16px; }
+.card { background: #fff; padding: 18px 20px; border-radius: 10px; border: 1px solid #e5e7eb; }
+.card h2 { margin: 6px 0; font-size: 1.2rem; }
+.card p { margin: 6px 0 10px; color: #4b5563; }
+.tag { background: #e0e7ff; color: #3730a3; padding: 2px 10px; border-radius: 99px; font-size: .75rem; }
+small { color: #6b7280; }
+.pagination { display: flex; gap: 6px; justify-content: center; flex-wrap: wrap; margin-top: 28px; }
+button { padding: 8px 14px; border: 1px solid #d1d5db; background: #fff; border-radius: 6px; cursor: pointer; }
+button:hover:not(:disabled) { background: #f3f4f6; }
+button:disabled { opacity: .5; cursor: not-allowed; }
+button.active { background: #2563eb; color: #fff; border-color: #2563eb; }
+.center { text-align: center; padding: 60px 0; color: #6b7280; }
+.spinner { width: 36px; height: 36px; margin: 0 auto 10px; border: 4px solid #e5e7eb; border-top-color: #2563eb; border-radius: 50%; animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.error { background: #fef2f2; border: 1px solid #fecaca; color: #991b1b; padding: 16px; border-radius: 8px; margin-bottom: 16px; }
+.detail { background: #fff; padding: 24px; border-radius: 10px; border: 1px solid #e5e7eb; }
+.detail h1 { margin: 10px 0 4px; }
+.detail .tag { margin-left: 12px; }

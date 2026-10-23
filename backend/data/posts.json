@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "slug": "getting-started-with-nodejs",
+    "title": "Getting Started with Node.js",
+    "excerpt": "Node.js lets you run JavaScript outside the browser. In this post we set up a first project, explore modules, and run a simple script.",
+    "content": "Node.js lets you run JavaScript outside the browser. In this post we set up a first project, explore modules, and run a simple script.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Ali Raza",
+    "tag": "Node.js",
+    "publishedAt": "2026-01-11"
+  },
+  {
+    "id": 2,
+    "slug": "understanding-express-middleware",
+    "title": "Understanding Express Middleware",
+    "excerpt": "Middleware functions sit between the request and the response. Learn how logging, parsing and error handling are chained together.",
+    "content": "Middleware functions sit between the request and the response. Learn how logging, parsing and error handling are chained together.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Sara Ahmed",
+    "tag": "Express",
+    "publishedAt": "2026-01-12"
+  },
+  {
+    "id": 3,
+    "slug": "react-hooks-explained",
+    "title": "React Hooks Explained",
+    "excerpt": "useState and useEffect changed how we write React. We walk through the most common patterns and pitfalls.",
+    "content": "useState and useEffect changed how we write React. We walk through the most common patterns and pitfalls.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Usman Tariq",
+    "tag": "React",
+    "publishedAt": "2026-01-13"
+  },
+  {
+    "id": 4,
+    "slug": "rest-api-design-best-practices",
+    "title": "REST API Design Best Practices",
+    "excerpt": "Good APIs are predictable. We cover naming, status codes, pagination and versioning.",
+    "content": "Good APIs are predictable. We cover naming, status codes, pagination and versioning.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Ayesha Khan",
+    "tag": "API",
+    "publishedAt": "2026-01-14"
+  },
+  {
+    "id": 5,
+    "slug": "pagination-strategies",
+    "title": "Pagination Strategies",
+    "excerpt": "Offset-based and cursor-based pagination each have trade-offs. Here is when to use which one.",
+    "content": "Offset-based and cursor-based pagination each have trade-offs. Here is when to use which one.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Ali Raza",
+    "tag": "API",
+    "publishedAt": "2026-01-15"
+  },
+  {
+    "id": 6,
+    "slug": "handling-errors-gracefully-in-react",
+    "title": "Handling Errors Gracefully in React",
+    "excerpt": "Loading spinners and error messages make an app feel polished. Let's build a reusable pattern for both.",
+    "content": "Loading spinners and error messages make an app feel polished. Let's build a reusable pattern for both.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Sara Ahmed",
+    "tag": "React",
+    "publishedAt": "2026-02-16"
+  },
+  {
+    "id": 7,
+    "slug": "a-gentle-introduction-to-json",
+    "title": "A Gentle Introduction to JSON",
+    "excerpt": "JSON is the lingua franca of web APIs. Learn the syntax, common mistakes and how to validate it.",
+    "content": "JSON is the lingua franca of web APIs. Learn the syntax, common mistakes and how to validate it.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Usman Tariq",
+    "tag": "JSON",
+    "publishedAt": "2026-02-17"
+  },
+  {
+    "id": 8,
+    "slug": "cors-demystified",
+    "title": "CORS Demystified",
+    "excerpt": "Why does the browser block your request? We explain CORS and how to configure it in Express.",
+    "content": "Why does the browser block your request? We explain CORS and how to configure it in Express.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Ayesha Khan",
+    "tag": "Express",
+    "publishedAt": "2026-02-18"
+  },
+  {
+    "id": 9,
+    "slug": "react-router-basics",
+    "title": "React Router Basics",
+    "excerpt": "Client-side routing lets you build multi-page experiences without full reloads. We cover routes, params and links.",
+    "content": "Client-side routing lets you build multi-page experiences without full reloads. We cover routes, params and links.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Ali Raza",
+    "tag": "React",
+    "publishedAt": "2026-02-19"
+  },
+  {
+    "id": 10,
+    "slug": "git-workflow-for-beginners",
+    "title": "Git Workflow for Beginners",
+    "excerpt": "Branches, commits and pull requests - a simple workflow you can use on your class projects.",
+    "content": "Branches, commits and pull requests - a simple workflow you can use on your class projects.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Sara Ahmed",
+    "tag": "Git",
+    "publishedAt": "2026-02-20"
+  },
+  {
+    "id": 11,
+    "slug": "environment-variables-in-node",
+    "title": "Environment Variables in Node",
+    "excerpt": "Keep secrets out of your code. Learn how to use .env files and process.env safely.",
+    "content": "Keep secrets out of your code. Learn how to use .env files and process.env safely.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Usman Tariq",
+    "tag": "Node.js",
+    "publishedAt": "2026-03-21"
+  },
+  {
+    "id": 12,
+    "slug": "deploying-a-full-stack-app",
+    "title": "Deploying a Full-Stack App",
+    "excerpt": "From localhost to production: build, host and connect your backend and frontend.",
+    "content": "From localhost to production: build, host and connect your backend and frontend.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Ayesha Khan",
+    "tag": "DevOps",
+    "publishedAt": "2026-03-22"
+  },
+  {
+    "id": 13,
+    "slug": "writing-clean-javascript",
+    "title": "Writing Clean JavaScript",
+    "excerpt": "Small functions, clear names, and consistent style make code easier to maintain.",
+    "content": "Small functions, clear names, and consistent style make code easier to maintain.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Ali Raza",
+    "tag": "JavaScript",
+    "publishedAt": "2026-03-23"
+  },
+  {
+    "id": 14,
+    "slug": "async-await-made-simple",
+    "title": "Async/Await Made Simple",
+    "excerpt": "Promises can be confusing. Async/await gives us readable asynchronous code. See real examples with fetch.",
+    "content": "Promises can be confusing. Async/await gives us readable asynchronous code. See real examples with fetch.\n\nThis is the full article. It goes deeper into the topic with examples, explanations and practical tips so that you can apply what you learned in your own projects.\n\nHappy coding!",
+    "author": "Sara Ahmed",
+    "tag": "JavaScript",
+    "publishedAt": "2026-03-24"
+  }
+]
